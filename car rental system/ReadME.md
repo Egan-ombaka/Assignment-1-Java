@@ -34,7 +34,15 @@ This project is a simple Car Rental Agency Management System developed as an ass
 
 When you run the [Main](http://_vscodecontentref_/6) class, you should see the following output:
 
+Available cars:
+Available Cars: 
+VW2025 Golf Volkswagen Available
+TOY2021 Corolla Toyota Available
 
+Customer details:
+Customers:
+Customer ID: C001, Name: Eganh Ombaka
+Customer ID: C002, Name: James Doe
 ## Author
 
 - **Egan Nyamisoa**
