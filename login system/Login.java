@@ -1,14 +1,23 @@
-package loginfuncationlity;
-
+/*
+ * @AUTHOR : Egan Ombaka
+ * REG NO : BSE-01-0076/2024
+ * Assignment 1 Object Oriented Programming 2
+ * 
+ * 
+ */
 import java.util.Scanner;
 
 public class Login {
     public static void main(String[] args) {
-        String correctUsername = "user";
-        String correctPassword = "pass";
+
+        //predefining the username and password
+        String correctUsername = "Eganh";
+        String correctPassword = "password123";
+
         Scanner scanner = new Scanner(System.in);
         boolean loggedIn = false;
 
+        //determing the number of times user enters the passwaord and if it's correct
         for (int attempt = 1; attempt <= 3; attempt++) {
             System.out.println("Attempt " + attempt + ":");
             System.out.print("Enter username: ");
