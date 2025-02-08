@@ -2,38 +2,36 @@
 
 ## Overview
 
-This project is a simple Login System developed to demonstrate user authentication. It allows users to register, login, and manage their accounts.
+This project is a simple Login System developed to demonstrate user authentication. It allows users to login with a predefined username and password.
 
 ## Features
 
-- User registration.
-- User login.
-- Password encryption.
-- Account management.
+- User login with predefined credentials.
+- Password input masking.
+- Limited login attempts with account lockout after 3 failed attempts.
 
 ## How to Run
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/login-system.git
+    git clone https://github.com/Egan-ombaka/Assignment-1-Java.git
     cd login-system
     ```
 
-2. **Install dependencies**:
+2. **Compile the Java files**:
     ```sh
-    pip install -r requirements.txt
+    javac LoginSystem.java
     ```
 
-3. **Run the application**:
+3. **Run the LoginSystem class**:
     ```sh
-    python app.py
+    java LoginSystem
     ```
 
 ## Expected Output
 
-When you run the application, you should see the login interface where users can register and login.
 
 ## Author
 
-- **Your Name**
-- **Contact**: your.email@example.com
+- **Egan Ombaka**
+- **REG NO**: BSE-01-0076/2024
