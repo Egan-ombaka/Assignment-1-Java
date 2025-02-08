@@ -29,7 +29,7 @@ This project is a simple Login System developed to demonstrate user authenticati
     ```
 
 ## Expected Output
-![SystemOutput](C:\Users\Admin\Videos\Captures)
+![SystemOutput](images/output.png)
 
 ## Author
 
